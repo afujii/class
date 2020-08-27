@@ -1,3 +1,3 @@
 # class
 
-This is test of using Github
+2020 Lecture Materials for Distributed Computing
